@@ -1,6 +1,6 @@
 # ambienBeat: Wrist-worn Mobile Tactile Biofeedback for Heart Rate Rythmic Regulation
 
-Appendicies (supplementary materials) for TEI 2020 paper submission. 
+Appendicies (supplementary materials) for the paper published in TEI 2020. 
 
 Project page: https://www.media.mit.edu/projects/ambienbeat/overview/
 
